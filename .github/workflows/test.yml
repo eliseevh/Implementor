@@ -17,5 +17,5 @@ jobs:
         distribution: 'temurin'
     - name: Run shell script for testing
       run: |
-        chmod u+x test.sh
-        test.sh
+        chmod u+x ./test.sh
+        ./test.sh
