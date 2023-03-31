@@ -1,0 +1,6 @@
+# Do not include IDE files
+*.iml
+.idea
+
+# Do not include compiled files
+out
